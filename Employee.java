@@ -1,5 +1,4 @@
 public class Employee{
-
     private final String name ;
     private final Double salary;
     private final Double workHours;
